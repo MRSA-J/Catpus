@@ -50,7 +50,7 @@ Since there are more and more stray cats on my friends' campus, we feel like we 
     1.  Home
         * Users can see their posts, cats ranking in the homepage
     2.  Cat Menu
-        * Users can browse all the stray cats on campus
+        * Users can browse information of all the stray cats on campus
     3.  Info
         * Users can browse the DHU stray cats on campus information
     4.  Mine
