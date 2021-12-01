@@ -53,12 +53,10 @@ Since there are more and more stray cats on my friends' campus, we feel like we 
 
 - ***For Shops***
 
-  - Edit daily recommendations
+  - Edit daily recommendations (ongoing)
 
 
 ## Demo
-
-<kbd><img src="https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/homepage.png" width=300></kbd>
 
 <br />
 
@@ -82,7 +80,7 @@ Since there are more and more stray cats on my friends' campus, we feel like we 
 
 <br />
 
-<kbd>![Homepage]('https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/homepage.png')</kbd>
+<kbd>!<img src= "https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/homepage.png" width=300></kbd>
 
   * Users can see their posts, cats ranking in the homepage
 
@@ -104,9 +102,25 @@ Since there are more and more stray cats on my friends' campus, we feel like we 
 
 <br />
 
+  * User can browse detailed cat ranking
+
+<br/>
+
+<kbd><img src="https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/cat%20ranking.png" width=300></kbd>
+
+<br/>
+
   * If users doesn't have a account, he or she can register for an account
 
 <br />
+
+
+  * Screen recording demo
+![](https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/Screen%20recording.mp4)
+
+  * Video Introduction (but it's in Chinese)
+![](https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/Project%20Introduction.mp4) 
+
 
 ## Contributors
 
