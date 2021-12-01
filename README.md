@@ -1,6 +1,12 @@
 # Catpus
 
-## Homepage
-![Homepage](http://baidu.com/pic/doge.png)
+## Home Page
+![Homepage]('/Catpus Demo/homepage.png')
 
-##
+## Cat Ranking
+
+
+## Info Page
+
+
+## Post Page
