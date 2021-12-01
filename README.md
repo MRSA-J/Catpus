@@ -100,7 +100,6 @@ Since there are more and more stray cats on my friends' campus, we feel like we 
 
 <br />
 
-
   * Screen recording demo and video introduction (all in Chinese) is in the demo folder
 
 
