@@ -1,19 +1,5 @@
 # Catpus
 
-## Home Page
-![Homepage]('/Catpus Demo/homepage.png')
-
-## Cat Ranking
-
-
-## Info Page
-
-
-## Post Page
-
-
-# Catpus
-
 A wechat program which is built for student voluntary organization: "Catpus DHU," at Donghua University to assist with helping stray cats
 
 ## Table of Contents
