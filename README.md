@@ -40,83 +40,67 @@ Since there are more and more stray cats on my friends' campus, we feel like we 
 
 ### Basic features
 
-- ***For Food Providers***
+- ***For Users***
 
-  - Add food options
-  - Receive orders
+  - Like Cats
+  - Like Posts
+  - See Previous posts 
+  - Read cats' news, adopting information
+  - Add cats
 
-- ***For Customers***
-
-  - Browse food and beverage options
-    - View food details (image, description, price, etc.)
-    - Display by restaurant, category, etc
-  - Order meals
-  - Search meals or restaurants
-  - Manage user account, including user login, logout and register
-  - View restaurant information (open time, location, etc)
-  - Rate the food
-  - Browse the comments added by other customers
 
 ### Advanced Features
 
-- ***For Food Providers***
+- ***For Shops***
 
   - Edit daily recommendations
-
-- ***For Customers***
-
-  - Rank food and beverage options by rating, price
-  - View order status
-  - See order history
-  - Add comments
-  - Browse the comments added by other customers
 
 
 ## Demo
 
-<kbd><img src="https://github.com/Alicia-Sheng/Foodie-MobileAppVersion/blob/master/media/screeshot/homepage.png" width=300></kbd>
+<kbd><img src="https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/homepage.png" width=300></kbd>
 
 <br />
 
 1.  Nav Bar
     1.  Home
-        * 
-    2.  Content
-        * Users can search for the restaurant details and the food that they have
+        * Users can see their posts, cats ranking in the homepage
+    2.  Cat Menu
+        * Users can browse all the stray cats on campus
     3.  Info
         * Users can browse the DHU stray cats on campus information
     4.  Mine
         * Users can go to the account page and do the login/register operation
 2.  Ranking Page
-    * 
-3.  Cat info Page
-    * Users 
+    * It shows the cats ranking with detailed like number
+3.  Cat homepage Page
+    * It shows the posts related to a specific cats and the like number
 4.  Post Page
-    * Users 
+    * Users can browse and write the posts, just like twitter
 5.  Account
     * Users can browse setting and all the operation related to this account
 
 <br />
 
-<kbd>![Homepage]('/Catpus Demo/homepage.png')</kbd>
+<kbd>![Homepage]('https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/homepage.png')</kbd>
 
-  * 
-
-<br />
-
-  * Users can see their previous review
+  * Users can see their posts, cats ranking in the homepage
 
 <br />
 
-<kbd><img src="https://github.com/Alicia-Sheng/Foodie-MobileAppVersion/blob/master/media/screeshot/login.png" width=300></kbd>
+  * Users can browse on campus stray cats news
 
 <br />
 
-  * If users have a account, he or she can login into our app
+<kbd><img src="https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/info.png" width=300></kbd>
 
 <br />
 
-<kbd><img src="https://github.com/Alicia-Sheng/Foodie-MobileAppVersion/blob/master/media/screeshot/registerPage.png" width=300></kbd>
+  * Users can add their posts
+
+<br />
+
+<kbd><img src="https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/post.png" width=300></kbd>
 
 <br />
 
@@ -127,7 +111,7 @@ Since there are more and more stray cats on my friends' campus, we feel like we 
 ## Contributors
 
 [@ChenWei](https://github.com/MRSA-J).
-[@YuhanGu]
+[@YuhanGu]()
 
 ## License
 
