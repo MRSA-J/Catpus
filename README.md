@@ -20,7 +20,7 @@ A wechat program which is built for student voluntary organization: "Catpus DHU,
 ### What is Catpus DHU
 
 A wechat program which is built for student voluntary organization: "Catpus DHU," at Donghua University to assist with helping stray cats on campus.
-Since there are more and more stray cats on my friends' campus, we feel like we need such an organizations to let 
+Since there are more and more stray cats on my friends' campus, we feel like we need such an organizations to organize feeding, adopting and sterillization issues.
 
 ## Features
 
@@ -101,17 +101,8 @@ Since there are more and more stray cats on my friends' campus, we feel like we 
 <br />
 
 
-  * Screen recording demo
-<br/>
-<video id="video" controls="" preload="none" poster="https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/homepage.png">
-      <source id="mp4" src="https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/Screen%20recording.mp4" type="video/mp4">
-</videos>
+  * Screen recording demo and video introduction (all in Chinese) is in the demo folder
 
-  * Video Introduction (but it's in Chinese)
-<br/>
-<video id="video" controls="" preload="none" poster="https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/homepage.png">
-      <source id="mp4" src="https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/Project%20Introduction.mp4">
-</videos>
 
 
 
