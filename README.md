@@ -102,10 +102,17 @@ Since there are more and more stray cats on my friends' campus, we feel like we 
 
 
   * Screen recording demo
-![](https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/Screen%20recording.mp4)
+<br/>
+<video id="video" controls="" preload="none" poster="https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/homepage.png">
+      <source id="mp4" src="https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/Screen%20recording.mp4" type="video/mp4">
+</videos>
 
   * Video Introduction (but it's in Chinese)
-![](https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/Project%20Introduction.mp4) 
+<br/>
+<video id="video" controls="" preload="none" poster="https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/homepage.png">
+      <source id="mp4" src="https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/Project%20Introduction.mp4">
+</videos>
+
 
 
 ## Contributors
