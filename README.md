@@ -72,27 +72,20 @@ Since there are more and more stray cats on my friends' campus, we feel like we 
 
 <br />
 
+<kbd><img src="https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/info.png" width=300></kbd>
+
   * Users can browse on campus stray cats news
 
 <br />
 
-<kbd><img src="https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/info.png" width=300></kbd>
-
-<br />
-
-  * Users can add their posts
-
-<br />
-
 <kbd><img src="https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/post.png" width=300></kbd>
-
+  
+  * Users can add their posts
 <br />
-
-  * User can browse detailed cat ranking
-
-<br/>
 
 <kbd><img src="https://github.com/MRSA-J/Catpus/blob/main/Catpus%20Demo/cat%20ranking.png" width=300></kbd>
+
+  * User can browse detailed cat ranking
 
 <br/>
 
