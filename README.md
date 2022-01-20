@@ -7,7 +7,7 @@ A wechat program which is built for student voluntary organization: "Catpus DHU,
 - [Catpus](#Catpus)
   - [Table of Contents](#table-of-contents)
   - [Background](#background)
-    - [What is Catpus](#what-is-Catpus DHU)
+    - [What is Catpus](#what-is-Catpus-DHU)
   - [Features](#features)
     - [Basic features](#basic-features)
     - [Advanced Features](#advanced-features)
