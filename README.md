@@ -101,7 +101,7 @@ Since there are more and more stray cats on my friends' campus, we feel like we 
 ## Contributors
 
 [@ChenWei](https://github.com/MRSA-J).
-[@YuhanGu]()
+[@YuhanGu](https://github.com/greatgu99)
 
 ## License
 
